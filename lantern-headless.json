@@ -1,19 +1,19 @@
 {
-    "version": "1.0.24",
+    "version": "1.0.26",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/getlantern/lantern-headless-client/releases/download/v1.0.24/lantern-headless-x86.msi",
+            "url": "https://github.com/getlantern/lantern-headless-client/releases/download/v1.0.26/lantern-headless-x86.msi",
             "bin": [
                 "lantern-headless.exe"
             ],
-            "hash": "dc7a2a863e5b795a70dd17a1538905f401fc15555d86267dd7b671bff48c158a"
+            "hash": "8be94257b2573fb83043eb0e1e5fb6c6ebd12703ffd46ea3bb55b0da3e4eae78"
         },
         "64bit": {
-            "url": "https://github.com/getlantern/lantern-headless-client/releases/download/v1.0.24/lantern-headless-x64.msi",
+            "url": "https://github.com/getlantern/lantern-headless-client/releases/download/v1.0.26/lantern-headless-x64.msi",
             "bin": [
                 "lantern-headless.exe"
             ],
-            "hash": "01f205651348c094a6aa8c1c1ebcf24a2fcfadaac9359fa2125bc15d4cd51b9d"
+            "hash": "70de42b9d4bfa5b23e10edea85a4866a5144294ffc0b122ea6993a56db4d0a33"
         }
     },
     "homepage": "https://github.com/getlantern/lantern-headless-client",
